@@ -42,7 +42,7 @@ Here's what to do for each slide:
 
    - Highlight that quality is a problem. For example, asking an LLM to guess a random number generates numbers that are clearly biased.
    - GPT 3.5 tends to pick 47 most often while Claude 3 Haiku prefers 42.
-   - Show the image https://media.licdn.com/dms/image/D5622AQE2Cfp6bE-Klg/feedshare-shrink_800/0/1713171166756?e=1726099200&v=beta&t=WKbYY7hQDGkuBw8AHq2GExpmH7YZF6lNqckmAabn1X8 and point to the website [LLMs have favorite numbers](https://gramener.com/llmrandom/) for an interactive demo.
+   - Show the image https://raw.githubusercontent.com/sanand0/actor-lookalikes/main/llm-random.webp and point to the website [LLMs have favorite numbers](https://gramener.com/llmrandom/) for an interactive demo.
 
 4. Calculate Cost
 
@@ -52,7 +52,7 @@ Here's what to do for each slide:
 
 5. Evaluate Reaction.
 
-   - Show a picture of Naveen https://cdn-dkdhf.nitrocdn.com/qyLRjfwrYNTZBzhAQsuPBBDEKRQhUaiA/assets/images/optimized/rev-562ec9d/gramener.com/wp-content/uploads/2023/06/naveen.webp
+   - Show a picture of Naveen https://raw.githubusercontent.com/sanand0/actor-lookalikes/main/naveen-gattu.webp
    - Joke about how Naveen would say something like "Anand, we're in the middle of a fund-raise, we need EBITDA, we can't spend <INS>mention amount<INS>, nor a few days of your time, on finding useless things like actor similarity."
 
 6. Explore LLM Cost.
